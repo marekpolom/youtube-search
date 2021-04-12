@@ -16,6 +16,12 @@ Obecna konfiguracja powinna automatycznie połączyć się z bazą MongoDB dzia�
 
 Aby wprowadzić własny klucz do API YouTube należy zastąpić go w pliku src/state/ducks/youtube/operations.js
 
+Frontend odpalany jest poleceniem:
+
+```bash
+$ yarn start
+```
+
 ## Screenshots
 
 #### Front page
