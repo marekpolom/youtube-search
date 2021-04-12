@@ -1,0 +1,14 @@
+.navBar > ul{
+    padding: 0px;
+}
+
+.user-img {
+    width: 80px;
+    height: 80px;
+    transition-duration: 1s;
+    cursor: pointer
+}
+
+.user-img:hover {
+    filter: opacity(var(--value, 85%));
+}
